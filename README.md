@@ -15,8 +15,6 @@ This repository demonstrates how to fine-tune a **LLaMA-3.1 model** using **QLoR
 
 ---
 
-## 🛠️ **Setup**
-
 ### Install Required Libraries
 ```bash
 pip install git+https://github.com/huggingface/trl.git
